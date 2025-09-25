@@ -56,6 +56,7 @@ npm start
 
 -Open Expo Go on your mobile device
 -Scan the QR code from the terminal or Expo DevTools
+
 ---
 
 #**Live Demo via Expo**
@@ -67,7 +68,9 @@ npm start
 -Scan the QR code below with Expo Go on your device:
 
 <img width="265" height="322" alt="image" src="https://github.com/user-attachments/assets/724a0987-26ca-483f-8e75-030543f99726" />
+
 ---
+
 **Commands**
 # Fetch 20 users from API
 npm start
@@ -77,8 +80,10 @@ npm run android
 
 # Run on iOS
 npm run ios
+
 ---
 
+# User Directory App
 ## **Notes**
 
 -The app is fully conflict-free and does not require any additional packages beyond Expo defaults.
@@ -88,11 +93,13 @@ npm run ios
 -Dark mode works globally for both User List and Detail screens.
 
 -Smooth fade animations enhance the UX for User Detail view.
-----
 
-## **Author**
+---
 
-SHERIF NAWAS S
-GitHub: https://github.com/Sherif0007Nawas
+# **Author**
 
-LinkedIn: https://www.linkedin.com/in/sherif-nawas
+-SHERIF NAWAS S
+
+-GitHub: https://github.com/Sherif0007Nawas
+
+-LinkedIn: https://www.linkedin.com/in/sherif-nawas
