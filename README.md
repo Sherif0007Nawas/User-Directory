@@ -32,7 +32,6 @@ This app demonstrates a clean UI with search, pull-to-refresh, skeleton loading,
 ---
 
 ## **Folder Structure**
-
 user-directory/
 │
 ├── app/
