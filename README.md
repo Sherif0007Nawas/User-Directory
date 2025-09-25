@@ -68,7 +68,6 @@ npm start
 
 <img width="265" height="322" alt="image" src="https://github.com/user-attachments/assets/724a0987-26ca-483f-8e75-030543f99726" />
 
-
 **Sample Commands**
 # Fetch 20 users from API
 npm start
