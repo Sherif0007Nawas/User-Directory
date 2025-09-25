@@ -30,6 +30,14 @@ This app demonstrates a clean UI with search, pull-to-refresh, skeleton loading,
 - **State Management:** React Hooks (`useState`, `useEffect`, `useCallback`)
 
 ---
+## Author
+
+**👨‍💻 Author: Your Name**
+
+- GitHub: [@yourusername](https://github.com/yourusername)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- Email: yourname@example.com
 
 ## 📂 Folder Structure  
 
@@ -41,7 +49,6 @@ This app demonstrates a clean UI with search, pull-to-refresh, skeleton loading,
 
 1. **Clone the repository**
 ```bash
-git clone <YOUR_REPO_URL>
 cd user-directory
 
 2.**Install dependencies**
@@ -93,17 +100,17 @@ npm run ios
 -Dark mode works globally for both User List and Detail screens.
 
 -Smooth fade animations enhance the UX for User Detail view.
-
+```
 
 
 ---
 
 ## 👨‍💻 Author
 
-**John Smith**
+**Sherif Nawas S**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-nawas) 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)(https://github.com/Sherif0007Nawas) 
-
+- GitHub:(https://github.com/Sherif0007Nawas) 
+- LinkedIn: (https://www.linkedin.com/in/sherif-nawas)
+- Email: sherifnawas486@gmail.com
 
 
