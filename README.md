@@ -113,5 +113,5 @@ npm run ios
 - LinkedIn: (https://www.linkedin.com/in/sherif-nawas)
 - Email: sherifnawas486@gmail.com
 
+[Watch the video](videos/Project.mp4)
 
-[🎥 Watch Demo](./Project.mp4)
