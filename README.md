@@ -45,6 +45,8 @@ user-directory/
 │
 │── services/
 │ └── api.js # Axios API config
+<img width="416" height="312" alt="image" src="https://github.com/user-attachments/assets/251b899d-720e-48c1-abed-d508de3dbe6e" />
+
 ---
 
 ## **Setup Instructions**
