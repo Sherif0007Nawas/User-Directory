@@ -94,12 +94,16 @@ npm run ios
 
 -Smooth fade animations enhance the UX for User Detail view.
 
+
+
 ---
 
-# **Author**
+## 👨‍💻 Author
 
--SHERIF NAWAS S
+**John Smith**
 
--GitHub: https://github.com/Sherif0007Nawas
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sherif-nawas) 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)(https://github.com/Sherif0007Nawas) 
 
--LinkedIn: https://www.linkedin.com/in/sherif-nawas
+
+
