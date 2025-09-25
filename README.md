@@ -33,32 +33,16 @@ This app demonstrates a clean UI with search, pull-to-refresh, skeleton loading,
 
 ## **Folder Structure**
 user-directory/
-│
 ├── app/
-│ ├── _layout.js # Stack navigation
-│ ├── index.js # User List Screen
-│ └── details.js # User Detail Screen
-│
+│   ├── _layout.js       # Stack navigation
+│   ├── index.js         # User List Screen
+│   └── details.js       # User Detail Screen
 ├── components/
-│ ├── SearchBar.js # Reusable search bar
-│ └── ModeToggle.js # Light/Dark mode toggle
-│
-├── services/
-│ └── api.js # Axios API config
+│   ├── SearchBar.js     # Reusable search bar
+│   └── ModeToggle.js    # Light/Dark mode toggle
+└── services/
+    └── api.js           # Axios API config
 
-user-directory/
-│
-├── app/
-│ ├── _layout.js # Stack navigation
-│ ├── index.js # User List Screen
-│ └── details.js # User Detail Screen
-│
-├── components/
-│ ├── SearchBar.js # Reusable search bar
-│ └── ModeToggle.js # Light/Dark mode toggle
-│
-├── services/
-│ └── api.js # Axios API config
 ---
 
 ## **Setup Instructions**
