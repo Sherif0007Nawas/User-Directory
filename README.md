@@ -66,7 +66,8 @@ npm start
 
 -Scan the QR code below with Expo Go on your device:
 
-![Expo QR](link-to-your-qr-image-or-placeholder)
+<img width="265" height="322" alt="image" src="https://github.com/user-attachments/assets/724a0987-26ca-483f-8e75-030543f99726" />
+
 
 **Sample Commands**
 # Fetch 20 users from API
