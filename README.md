@@ -63,7 +63,7 @@ npm start
 
 -Open Expo Go on your mobile device
 -Scan the QR code from the terminal or Expo DevTools
-
+```
 ---
 
 #**Live Demo via Expo**
@@ -79,6 +79,7 @@ npm start
 ---
 
 **Commands**
+```bash
 # Fetch 20 users from API
 npm start
 
@@ -90,7 +91,6 @@ npm run ios
 
 ---
 
-# User Directory App
 ## **Notes**
 
 -The app is fully conflict-free and does not require any additional packages beyond Expo defaults.
